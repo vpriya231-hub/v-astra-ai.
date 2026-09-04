@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://play-lh.googleusercontent.com/y3F79vC7q5G10w0s8c8A3Yt2b7s1bY6H8Y_z6v9o0=w240-h240-rw" onerror="this.src='https://v-astra.web.app/favicon.ico'" alt="V Astra AI Logo" width="110" height="110" style="border-radius: 20%;" />
 # V Astra AI
 **Your all-in-one AI workspace — no subscriptions, no lock-ins.**
 *Smart AI chat, research notebooks, vision, voice, and writing tools — built for students, developers, and power users.*
